@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Exercise6 {
-	public double area(double b, double h) {
+	public static double area(double b, double h) {
 		return .5 * b * h;
 	}
 	

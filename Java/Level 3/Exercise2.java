@@ -1,5 +1,5 @@
 class Exercise2 {
-	public void average(int num1, int num2) {
+	public static void average(int num1, int num2) {
 		System.out.println((num1 + num2) / 2);
 	}
 	
